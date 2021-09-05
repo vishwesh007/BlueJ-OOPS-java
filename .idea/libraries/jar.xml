@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/output/jar/JAVANIDE-BlueJ.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/output/jar/newlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
